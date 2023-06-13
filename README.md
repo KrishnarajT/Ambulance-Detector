@@ -19,7 +19,8 @@ at intersections.
 5. Breadboards or PCBs
 
 # Pics
-
+![](https://github.com/KrishnarajT/Ambulance-Detector/blob/main/Pics/IOT%20Project%201.jpg)
+![](https://github.com/KrishnarajT/Ambulance-Detector/blob/main/Pics/IOT%20Project%206.jpg)
 
 
 # Credits
